@@ -19,6 +19,9 @@ git add readme.txt
 >> hello_world.py
 # type python hello_world.py to run program
 >> python hello_world.py
+------------------------------------------------------------------
+# go back to a previous version on github by selectiong the commit #s
+>> git checkout ########################
 
 __________________________________________________________________________________________________________________________________
 Quick setup — if you’ve done this kind of thing before
