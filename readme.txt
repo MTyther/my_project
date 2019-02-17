@@ -15,6 +15,11 @@ git add readme.txt
 # To create a new empty pycharm file...
 >> copy con hello_world.py
 >> ctrl z (cr)
+# Type hello_world.py to start pycharm editor and code away
+>> hello_world.py
+# type python hello_world.py to run program
+>> python hello_world.py
+
 __________________________________________________________________________________________________________________________________
 Quick setup — if you’ve done this kind of thing before
 or	
