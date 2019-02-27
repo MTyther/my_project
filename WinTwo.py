@@ -6,6 +6,11 @@ def login(myName, myID):
     else:
         print("Invalid entry, Please re-enter correct Name and/or ID: ")
 
+def deposit():
+
+
+def withdraw():
+
 
 m_Name = input("Please enter your first name: ")
 m_ID = input("Enter your ID#: ")
